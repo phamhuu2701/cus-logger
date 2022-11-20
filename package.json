@@ -1,6 +1,6 @@
 {
   "name": "hdev-logger",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "",
   "main": "index.js",
   "homepage": "https://github.com/phamhuu2701/hdev-logger",
@@ -9,7 +9,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "UNLICENSED",
   "type": "module",
   "engines": {
     "node": ">=14.0.0",
