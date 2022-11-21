@@ -9,11 +9,11 @@ const logger = (payload) => {
     case 'string':
     case 'number':
     case 'boolean':
-      console.log(`🚀 logger:`, payload)
+      console.log(`🚀 log:`, payload)
       break
 
     default:
-      console.log(`🚀 logger:`, payload?.message)
+      console.log(`🚀 log:`, payload?.message)
       break
   }
 

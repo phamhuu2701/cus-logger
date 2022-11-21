@@ -1,15 +1,14 @@
 {
-  "name": "hdev-logger",
-  "version": "1.0.3",
+  "name": "cus-logger",
+  "version": "0.0.1",
   "description": "",
   "main": "index.js",
-  "homepage": "https://github.com/phamhuu2701/hdev-logger",
+  "homepage": "https://github.com/phamhuu2701/cus-logger",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
-    "hdev-logger",
-    "hdev",
+    "cus-logger",
     "logger"
   ],
   "author": "",

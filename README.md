@@ -1,22 +1,20 @@
-# hdev-logger
-
-## Getting Started
+# cus-logger
 
 A simple logging library that combines the simple APIs of Node's console.log()
 
 ### Instantiation:
 
     # npm
-    npm i hdev-logger
+    npm i cus-logger
 
     # yarn
-    yarn add hdev-logger
+    yarn add cus-logger
 
 ### Usage
 
 In Node.js:
 
-    import logger from 'hdev-logger'
+    import logger from 'cus-logger'
 
 Simple logger:
 
