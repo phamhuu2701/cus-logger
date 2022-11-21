@@ -1,8 +1,8 @@
 # cus-logger
 
-A simple logging library that combines the simple APIs of Node's console.log()
+A simple custom logging that combines the simple APIs of Node's console.log()
 
-### Instantiation:
+### Instantiation
 
     # npm
     npm i cus-logger
@@ -39,12 +39,10 @@ Logger with callback function:
     🚀 logger: hello world
     callback
 
-### Customization:
+### Customization
 
 Comming soon.
 
 ### License
-
-<!-- [MIT](https://choosealicense.com/licenses/mit/) license -->
 
 Unlicense.
